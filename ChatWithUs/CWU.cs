@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ChatWithUs
 {
-    public partial class Form1 : Form
+    public partial class CWU : Form
     {
-        public Form1()
+        public CWU()
         {
             InitializeComponent();
         }
